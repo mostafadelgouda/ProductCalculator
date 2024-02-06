@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Product Calculator</string>
+    <string name="history">History</string>
+    <string name="edit">Edit</string>
+    <string name="calculate">Calculate</string>
+    <string name="confirm">Confirm</string>
+    <string name="clear">Clear</string>
+    <string name="undo">Undo</string>
+</resources>
