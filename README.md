@@ -1,5 +1,5 @@
 # Product Calculator
-Welcome to the Product Calculator project repository! This Android application serves as a virtual calculator for product purchases, allowing users to calculate the total price of items, view previous transactions, and manage product data.
+An application serves as a virtual calculator for product purchases, allowing users to calculate the total price of items, view previous transactions, and manage product data.
 
 ![Untitled](https://github.com/mostafadelgouda/ProductCalculator/assets/56961667/86b8d792-6a95-4965-898d-311876c0d1ab)
 
